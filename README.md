@@ -28,8 +28,8 @@
 
 ## ⚡ Github Stats
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=vidyasagar1432&theme=juicyfresh&no-bg=true&no-frame=true&column=4&") -->
-<!-- [![vidyasagar1432's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidyasagar1432&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/vidyasagar1432) -->
+ ![trophy](https://github-profile-trophy.vercel.app/?username=vidyasagar1432&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+[![vidyasagar1432's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidyasagar1432&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/vidyasagar1432)
 
 [![vidyasagar1432's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vidyasagar1432&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/vidyasagar1432)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyasagar1432&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/vidyasagar1432)
