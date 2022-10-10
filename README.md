@@ -1,5 +1,4 @@
-### Hi there 👋 , I'm [Vidya Sagar](https://github.com/vidyasagar1432), I love web development <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyasagar1432" alt="visitor badge"/></p>
-
+### Hi there 👋 , I'm [Vidya Sagar](https://github.com/vidyasagar1432), I love web development
  
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,html,css,bootstrap,mongodb,postgres,discord)](https://skillicons.dev) # Love
 
